@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Till Float Management.props" />
+</Project>

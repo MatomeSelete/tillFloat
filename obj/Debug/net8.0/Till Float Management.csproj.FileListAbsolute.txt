@@ -1,0 +1,31 @@
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/appsettings.Development.json
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/appsettings.json
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management.staticwebassets.runtime.json
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management.deps.json
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management.runtimeconfig.json
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management.dll
+/Users/matome/Desktop/Till Float Management/bin/Debug/net8.0/Till Float Management.pdb
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.AssemblyInfoInputs.cache
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.AssemblyInfo.cs
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.csproj.CoreCompileInputs.cache
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.MvcApplicationPartsAssemblyInfo.cache
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.RazorAssemblyInfo.cache
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.RazorAssemblyInfo.cs
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.sourcelink.json
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets.build.json
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets.development.json
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets/msbuild.Till Float Management.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets/msbuild.build.Till Float Management.props
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Till Float Management.props
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Till Float Management.props
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/scopedcss/bundle/Till Float Management.styles.css
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/scopedcss/projectbundle/Till Float Management.bundle.scp.css
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.dll
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/refint/Till Float Management.dll
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.pdb
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/Till Float Management.genruntimeconfig.cache
+/Users/matome/Desktop/Till Float Management/obj/Debug/net8.0/ref/Till Float Management.dll
